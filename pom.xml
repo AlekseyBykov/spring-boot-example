@@ -24,7 +24,7 @@
         <commons-lang3.version>3.8.1</commons-lang3.version>
         <lombok.version>1.18.0</lombok.version>
         <mapstruct.version>1.3.0.Final</mapstruct.version>
-        <swagger.version>2.7.0</swagger.version>
+        <swagger.version>2.10.0</swagger.version>
         <hal.version>3.0.8.RELEASE</hal.version>
     </properties>
 
